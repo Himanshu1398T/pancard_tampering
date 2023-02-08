@@ -8,7 +8,7 @@ Step 4: Activate environment by command as follows-
 conda activate <environment name> <br>
 Step 5: Use command below to install required dependencies-
 python -m pip install -r requirements.txt <br>
-Step 6: Run application by command; <br>
-"\t" python app.py  <br>
+Step 6: <p>Run application by command; 
+python app.py  </p>
 You will get url copy it and paste in browser. <br>
 Step 7: You have sample_data folder where you can get images to test.
